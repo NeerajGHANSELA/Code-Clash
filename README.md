@@ -1,4 +1,4 @@
-# SENG513W25-FinalProject-CodeClash Development Guide
+# CodeClash Development Guide
 
 ## Frontend Development
 
